@@ -4,6 +4,8 @@
 
 My name is Neil Hendren, and I am a software engineer from Boulder, Colorado. I have a background in academic research, chemical and biological engineering, front-end and back-end web development, and some devops. I am currently working at CoBank, where I build customer portals and the supporting infrastructure. At the University of Colorado, Boulder, I designed and built [learncheme.com](https://www.learncheme.com), and the majority of the browser-based interactive simulations therein.
 
+This is my personal GitHub account and repositories; my professional projects and GitHub accounts are generally kept private.
+
 I graduated from [Turing School of Software and Design](https://turing.edu/backend) with a focus on back-end development using Ruby on Rails.
 
 Check out some of my side projects at [neiltheseal.github.io](https://neiltheseal.github.io)
